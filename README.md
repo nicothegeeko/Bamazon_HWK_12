@@ -28,18 +28,48 @@ Individuals can also purchase items using this application from the database.
 ## Code Working Examples: 
 
 
-Since users cannot access MySQL database from GitHub examples of how the application works is presented below. 
+Since users cannot access MySQL database from GitHub examples of how the application works is presented below.
+---
+### This is an image of the table that includes all of the items located in the MySQL database seen in the bamazonCustomer.js file.
+
+![Table](application-images/ScreenShot-1.png)
+---
+### At the bottom you can see the user inputs for what item they want to select seen in the bamazonCustomer.js file.
+
+![User Input](application-images/ScreenShot-2.png)
+---
+### At the top you can see how many items were selected and the cost of the amount of items if that item is avalaible. At the bottom you can see how many are avaliable in the inventory at this time seen in the bamazonCustomer.js file.
+
+![User Choices Expressed](application-images/ScreenShot-3.png)
+---
+### Menu for the user to select what part of the application they want to use in bamazonManager.js.
+
+![BamazonManager Menu](application-images/ScreenShot-4.png)
+---
+### Menu that appears if you select 'View Products for Sale'
+
+![GitHub Logo](application-images/ScreenShot-5.png)
+---
+
+### View low inventory (items that are 5 or less in stock)
+
+![GitHub Logo](application-images/ScreenShot-6.png)
+---
+### Adding more items to inventory
+
+![GitHub Logo](application-images/ScreenShot-7.png)
+
+---
+### Adding a new item to inventory
+
+![GitHub Logo](application-images/ScreenShot-8.png)
+
+---
+### See new item in inventory
+
+![GitHub Logo](application-images/ScreenShot-9.png)
 
 
-![GitHub Logo](application-images/ScreenShot-1.png);
-![GitHub Logo](application-images/ScreenShot-2.png);
-![GitHub Logo](application-images/ScreenShot-3.png);
-![GitHub Logo](application-images/ScreenShot-4.png);
-![GitHub Logo](application-images/ScreenShot-5.png);
-![GitHub Logo](application-images/ScreenShot-6.png);
-![GitHub Logo](application-images/ScreenShot-7.png);
-![GitHub Logo](application-images/ScreenShot-8.png);
-![GitHub Logo](application-images/ScreenShot-9.png);
 
 
 
