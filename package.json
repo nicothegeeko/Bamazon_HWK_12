@@ -1,0 +1,27 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "A more local version of amazon",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicothegeeko/Bamazon_HWK_12.git"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "Nico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicothegeeko/Bamazon_HWK_12/issues"
+  },
+  "homepage": "https://github.com/nicothegeeko/Bamazon_HWK_12#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0"
+  }
+}
